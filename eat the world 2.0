@@ -1,7 +1,7 @@
 -- Blacklisted usernames
 local blacklistedUsers = {
-    "keme24119"
-    "takatakgamer777"
+    "keme24119",
+    "takatakgamer777",
     "zpzwq76"
 }
 
